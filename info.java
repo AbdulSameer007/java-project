@@ -1,1 +1,5 @@
-this is new program in java subject name static kayword..
+class info{
+    public static void main(String[] args) {
+        System.out.println("hello java ");
+    }
+}
